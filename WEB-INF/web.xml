@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+    <web-app version="2.5"   
+        xmlns="http://java.sun.com/xml/ns/javaee"   
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   
+        xsi:schemaLocation="http://java.sun.com/xml/ns/javaee   
+        http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">  
+      <display-name></display-name>   
+        
+      <filter><!--过滤器配置-->  
+        <filter-name>EncodingFilter</filter-name>  
+        <filter-class>com.filter.EndodingFilter</filter-class>  
+      </filter>  
+      <filter-mapping>  
+        <filter-name>EncodingFilter</filter-name>  
+        <url-pattern>/</url-pattern>  
+      </filter-mapping>  
+      
+        <filter>
+      <filter-name>loginFilter</filter-name>
+      <filter-class>com.filter.LoginFilter</filter-class>
+	  </filter>
+	  <filter-mapping>
+	      <filter-name>loginFilter</filter-name>
+	     <url-pattern>/health.html</url-pattern>
+	      <!--<url-pattern>/Listservlet</url-pattern>
+	      <url-pattern>/Delservlet</url-pattern>
+	      <url-pattern>/Deluserservlet</url-pattern>
+	      <url-pattern>/Healthzhaoservlet</url-pattern>
+	      <url-pattern>/uphoustlist</url-pattern>-->
+	  </filter-mapping>      
+       
+      <servlet>  
+        <servlet-name>ZhuceServlet</servlet-name>  
+        <servlet-class>com.servlet.ZhuceServlet</servlet-class>  
+      </servlet>  
+      <servlet-mapping><!--servlet类映射配置-->  
+        <servlet-name>ZhuceServlet</servlet-name>  
+        <url-pattern>/ZhuceServlet</url-pattern>  
+      </servlet-mapping>  
+      
+      <servlet>  
+        <servlet-name>Houstservlet</servlet-name>  
+        <servlet-class>com.servlet.Houstservlet</servlet-class>  
+      </servlet>  
+      <servlet-mapping><!--servlet类映射配置-->  
+        <servlet-name>Houstservlet</servlet-name>  
+        <url-pattern>/Houstservlet</url-pattern>  
+      </servlet-mapping>    
+        
+      <servlet>  
+        <servlet-name>Listservlet</servlet-name>  
+        <servlet-class>com.servlet.Listservlet</servlet-class>  
+      </servlet>  
+      <servlet-mapping><!--servlet类映射配置-->  
+        <servlet-name>Listservlet</servlet-name>  
+        <url-pattern>/Listservlet</url-pattern>  
+      </servlet-mapping>
+      
+      <servlet>  
+        <servlet-name>Delservlet</servlet-name>  
+        <servlet-class>com.servlet.Delservlet</servlet-class>  
+      </servlet>  
+      <servlet-mapping><!--servlet类映射配置-->  
+        <servlet-name>Delservlet</servlet-name>  
+        <url-pattern>/Delservlet</url-pattern>  
+      </servlet-mapping>
+      
+      <servlet>  
+        <servlet-name>Deluserservlet</servlet-name>  
+        <servlet-class>com.servlet.Deluserservlet</servlet-class>  
+      </servlet>  
+      <servlet-mapping><!--servlet类映射配置-->  
+        <servlet-name>Deluserservlet</servlet-name>  
+        <url-pattern>/Deluserservlet</url-pattern>  
+      </servlet-mapping>
+      
+      <servlet>  
+        <servlet-name>Healthzhaoservlet</servlet-name>  
+        <servlet-class>com.servlet.Healthzhaoservlet</servlet-class>  
+      </servlet>  
+      <servlet-mapping><!--servlet类映射配置-->  
+        <servlet-name>Healthzhaoservlet</servlet-name>  
+        <url-pattern>/Healthzhaoservlet</url-pattern>  
+      </servlet-mapping>
+      
+      <servlet>  
+        <servlet-name>uphoust</servlet-name>  
+        <servlet-class>com.servlet.uphoust</servlet-class>  
+      </servlet>  
+      <servlet-mapping><!--servlet类映射配置-->  
+        <servlet-name>uphoust</servlet-name>  
+        <url-pattern>/uphoust</url-pattern>  
+      </servlet-mapping>
+      
+      <servlet>  
+        <servlet-name>uphoustlist</servlet-name>  
+        <servlet-class>com.servlet.uphoustlist</servlet-class>  
+      </servlet>  
+      <servlet-mapping><!--servlet类映射配置-->  
+        <servlet-name>uphoustlist</servlet-name>  
+        <url-pattern>/uphoustlist</url-pattern>  
+      </servlet-mapping>
+      
+      <servlet>  
+        <servlet-name>Article</servlet-name>  
+        <servlet-class>com.servlet.Article</servlet-class>  
+      </servlet>  
+      <servlet-mapping><!--servlet类映射配置-->  
+        <servlet-name>Article</servlet-name>  
+        <url-pattern>/Article</url-pattern>  
+      </servlet-mapping>
+      
+      <servlet>  
+        <servlet-name>addarticle</servlet-name>  
+        <servlet-class>com.servlet.addarticle</servlet-class>  
+      </servlet>  
+      <servlet-mapping><!--servlet类映射配置-->  
+        <servlet-name>addarticle</servlet-name>  
+        <url-pattern>/addarticle</url-pattern>  
+      </servlet-mapping>
+      
+      <servlet>  
+        <servlet-name>logoservlet</servlet-name>  
+        <servlet-class>com.servlet.logoservlet</servlet-class>  
+      </servlet>  
+      <servlet-mapping><!--servlet类映射配置-->  
+        <servlet-name>logoservlet</servlet-name>  
+        <url-pattern>/logoservlet</url-pattern>  
+      </servlet-mapping>
+      
+      <welcome-file-list><!--默认首页地址-->  
+        <welcome-file>index.html</welcome-file>  
+      </welcome-file-list>  
+    </web-app>  

@@ -1,0 +1,232 @@
+.register-block {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.register-block .zc-header .logo {
+    margin-left: 50px;
+}
+
+.register-block .zc-header img {
+    width: 58px;
+    height: 54px;
+    overflow: hidden;
+    vertical-align: top;
+}
+
+.register-block .zc-header h1 {
+    position: absolute;
+    top: 20px;
+    left: 160px;
+    font-size: 24px;
+    font-weight: 400;
+    padding: 0;
+    line-height: 38px;
+    margin-left: 100px;
+}
+
+.register-block .zc-content {
+    border: 1px solid #d7d7d7;
+    padding: 40px;
+    padding-right: 0;
+}
+
+.register-block .zc-content .user-zc {
+    width: 630px;
+    border-right: 1px dashed #e5e5e5;
+    color: #555;
+}
+
+.register-block .zc-content .user-zc h1 {
+    font-weight: normal;
+    line-height: 38px;
+    font-size: 18px;
+}
+
+.register-block .zc-content .user-zc .register-box {
+    padding: 20px 0;
+}
+
+.register-block .zc-content .user-zc .register-box .one {
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+
+.register-block .zc-content .user-zc .register-box .one input {
+    width: 240px;
+    height: 26px;
+    line-height: 26px;
+    border: 1px solid #d5d5d5;
+    font-size: 14px;
+    padding: 0 5px;
+}
+
+.register-block .zc-content .user-zc .register-box .two input {
+    width: 126px;
+    height: 26px;
+    line-height: 26px;
+    border: 1px solid #d5d5d5;
+    font-size: 14px;
+    padding: 0 5px;
+}
+
+.register-block .zc-content .user-zc .register-box .two img {
+    margin-bottom: -8px;
+}
+
+.register-block .zc-content .user-zc .register-box .readAccept {
+    font-size: 13px;
+    margin-left: 82px;
+    margin-top: 15px;
+}
+
+.register-block .zc-content .user-zc .register-box .readAccept .btn {
+    margin-top: 10px;
+}
+
+.register-block .zc-content .user-zc .register-box .readAccept .btnSubmit {
+    width: 100px;
+    height: 36px;
+    background: #DC141B;
+    line-height: 36px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.register-block .zc-content .user-zc .register-box .three {
+    font-size: 12px;
+    margin-top: 34px;
+}
+
+.register-block .zc-content .zc-login {
+    width: 270px;
+}
+
+.register-block .zc-content .zc-login img {
+    overflow: hidden;
+    vertical-align: top;
+}
+
+.register-block .zc-content .zc-login a {
+    color: #666;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background: #F8F8F8;
+    display: block;
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    margin-right: 15px;
+}
+
+/*# sourceMappingURL=register.css.map */
+
+.container {
+    background: #fff;
+}
+
+.container .footTable {
+    padding: 25px 0 10px;
+    background: #f3f3f3;
+    border-top: solid 1px #e6e6e6;
+    border-bottom: solid 1px #e6e6e6;
+    margin-top: 35px;
+}
+
+.container .footTable .ww {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container .footTable .ww .someInfo {
+    width: 155px;
+}
+
+.container .footTable .ww .someInfo .phone {
+    height: auto;
+    line-height: 18px;
+    padding: 5px 0;
+}
+
+.container .footTable .ww .someInfo .phone h4 {
+    height: 20px;
+    line-height: 20px;
+    color: #666;
+    font-size: 15px;
+}
+
+.container .footTable .ww .someInfo .phone p {
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    color: #d4003c;
+    font-weight: bold;
+}
+
+.container .footTable .ww table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.container .footTable .ww .line {
+    width: 0;
+    height: 130px;
+    border-left: solid 1px #e7e7e7;
+    border-right: solid 1px #fff;
+    margin: 0 20px;
+}
+
+.container .footTable .ww .dl {
+    color: #666;
+}
+
+.container .footTable .ww .dl .dt {
+    height: 24px;
+    line-height: 24px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.container .footTable .ww .dl .dd {
+    overflow: hidden;
+}
+
+.container .footTable .ww .dl .dd a {
+    display: block;
+    overflow: hidden;
+    height: 24px;
+    line-height: 24px;
+    color: #666;
+    font-size: 12px;
+}
+
+.container .footTable .ww .weixin {
+    text-align: center;
+    color: #666;
+}
+
+.container .footTable .ww .weixin .title {
+    font-size: 15px;
+}
+
+.container .footTable .ww .weixin .img {
+    margin: 10px 0;
+}
+
+.container .footTable .ww .weixin .img img {
+    overflow: hidden;
+    vertical-align: top;
+}
+
+.container .footTable .ww .weixin .scan-word {
+    font-size: 12px;
+}
+
+/*# sourceMappingURL=Footer.css.map */
+

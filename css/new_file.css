@@ -1,0 +1,633 @@
+
+body .nav a {
+    color: #333333;
+}
+
+.toplogo {
+    padding: 10px;
+}
+
+.toplogo2 {
+    width: 1200px;
+    height: 95px;
+}
+
+.toplogo2 img {
+    margin: 10px 0 0 100px;
+}
+
+.nav {
+    background-color: #f1f1f1;
+}
+
+.navfont {
+    font-size: 16px;
+    margin: auto;
+    text-align: center;
+}
+
+.navfont ul {
+    clear: both;
+    margin: auto;
+    padding-left: 200px;
+}
+
+.t1 {
+    margin-top: 25px;
+    color: #333333;
+}
+
+.lineh {
+    line-height: 24px;
+    text-indent: 28px;
+    color: #666666;
+}
+
+.lineh2 {
+    line-height: 34px;
+    text-indent: 48px;
+    color: #666666;
+}
+
+#cctv {
+    margin: auto;
+    text-align: center;
+}
+
+.disbg {
+    background: #fff;
+}
+
+.disbg2 {
+    background: #fff;
+    margin: 10px 0 0 0;
+    padding: 5px 0;
+}
+
+.newsbg {
+}
+
+.xfz {
+    margin: 20px;
+}
+
+.xfz h5 span {
+    color: #d0325f;
+}
+
+.newsbg h5 {
+    color: #333333;
+}
+
+.newsbg div {
+    color: #666666;
+}
+
+.newsbg2 h4 span {
+    color: #d0325f;
+}
+
+.newsbg2 h4 {
+    line-height: 32px;
+}
+
+.newsleft a {
+    color: #d0325f;
+}
+
+.newsbg2 {
+    padding-bottom: 15px;
+}
+
+newsbg3 {
+    background-image: url(../img/newbg.png);
+    width: 100%;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.newsleft {
+    width: 580px;
+    float: left;
+}
+
+.newsright {
+    width: 590px;
+    float: left;
+    padding-left: 25px;
+}
+
+.newskj {
+    width: 1200px
+}
+
+.newstitle {
+    maring-top: 10px
+}
+
+.newstitle a {
+    color: #333333
+}
+
+.newsdis h5 {
+    line-height: 28px;
+    text-indent: 28px;
+}
+
+.newsdis h5 a {
+    color: #d0325f;
+}
+
+.bottombg {
+    padding: 25px 0 0 0;
+    background: #f1f1f1;
+    overflow: hidden;
+}
+
+.bottomleft {
+    float: left;
+    margin-left: 110px;
+}
+
+.bottomright {
+    float: right;
+    margin-right: 150px;
+    margin-bottom: 20px;
+}
+
+.bottomright img {
+    width: 100px;
+    border: 1px solid #FFFFFF;
+    padding: 2px;
+}
+
+.bottomright div {
+    float: right;
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+.bq {
+    margin: 30px 0;
+    clear: both;
+    padding: 10px;
+    color: #CCCCCC;
+}
+
+.bottombg a {
+    color: #666666;
+}
+
+.bgweb {
+    background: #f1f1f1;
+}
+
+.bgweb ul {
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.bottomleft2 {
+    float: left;
+    color: #666666;
+}
+
+.bottomright2 {
+    clear: both;
+}
+
+.bottomright2 img {
+    border: 1px solid #FFFFFF;
+    padding: 2px;
+    width: 100px;
+    text-align: center;
+}
+
+.bottomright2 div {
+    float: left;
+    margin: auto;
+    font-size: 12px;
+}
+
+.bq2 {
+    margin: 30px 0;
+    clear: both;
+    padding: 10px;
+    color: #CCCCCC;
+}
+
+.webbtmlogo {
+    margin: 10px 0;
+}
+
+.pta {
+    margin-bottom: 10px;
+}
+
+.pta img {
+    margin-top: 15px;
+}
+
+.ptt {
+    font-size: 12px;
+}
+
+.ptabg {
+    background-color: #f1f1f1;
+    padding-bottom: 5px;
+}
+
+.disbg3 {
+    background: #fff;
+    margin: 10px 0;
+}
+
+.ptys01 {
+    width: 222px;
+    height: 365px;
+    border: 1px solid #d0325f;
+    margin-left: 6px;
+    float: left;
+    margin-top: 20px;
+}
+
+.ptys01 img {
+    margin: 20px 0 10px 50px
+}
+
+.ptbs {
+    text-align: left;
+    margin: 0 10px;
+    line-height: 24px;
+    color: #666666;
+}
+
+.t3 {
+    margin-top: 40px;
+}
+
+.t4 {
+    margin-top: 40px;
+}
+
+.glyphicon {
+    color: #666666;
+}
+
+.jk {
+    color: #d0325f;
+    background-color: #f1f1f1;
+    padding-top: 10px;
+}
+
+.jkhjd {
+    background-color: #f1f1f1;
+    padding-bottom: 25px;
+}
+
+.jkhjd h5 span {
+    color: #d0325f;
+}
+
+.pcjk h4 {
+    display: block;
+    float: left;
+    width: 380px;
+}
+
+.pcjk h4 span {
+    color: #d0325f
+}
+
+.ppfn {
+    background-image: url(../img/ysfnjhbg.gif);
+    height: 790px;
+    background-position: center top;
+}
+
+.ppfn_title {
+    padding: 320px 60px 0px
+}
+
+.ppfn_title {
+    width: 1200px;
+    margin: auto;
+    line-height: 35px;
+}
+
+.ppfn_title h3 {
+    line-height: 42px;
+    color: #666666;
+}
+
+.ppfn-nr {
+    width: 1200px;
+    padding: 0 60px;
+    margin: auto;
+}
+
+.ppfn-nr h4 {
+    line-height: 28px;
+}
+
+.ppfn1 {
+    background-image: url(../img/ysfnjhbg2.gif);
+    background-position: center top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 60px;
+}
+
+.ppfn_title1 {
+    padding: 150px 30px 0px
+}
+
+.ppfn_title1 {
+    margin: auto;
+    line-height: 35px;
+}
+
+.ppfn_title1 h4 {
+    line-height: 32px;
+    color: #666666;
+}
+
+.ppfn-nr1 {
+    padding: 0 30px 20px;
+    margin: auto;
+}
+
+.ppfn-nr1 h5 {
+    line-height: 22px;
+}
+
+.xsxx {
+    color: #ffffff;
+    width: 120px;
+    text-align: center;
+    background-color: #d0325f;
+    padding: 10px 30px;
+}
+
+.xsxx1 {
+    color: #ffffff;
+    width: 80px;
+    text-align: center;
+    background-color: #d0325f;
+    padding: 10px 20px;
+}
+
+.xsxx2 h5 {
+    line-height: 22px;
+}
+
+.xsxx2 h5 span {
+    color: #d0325f;
+}
+
+#cctv h4 span {
+    color: #d0325f;
+}
+
+.ppico {
+    margin-bottom: 20px;
+}
+
+.rzpp_row {
+    width: 1200px;
+}
+
+.rzppico {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.zssm {
+    text-indent: 48px;
+    line-height: 36px;
+    text-align: left;
+    color: #666666;
+}
+
+.zssm2 p {
+    line-height: 32px;
+    text-align: left;
+    color: #666666;
+    text-indent: 28px;
+    padding-top: 15px;
+}
+
+.zssm2 {
+    line-height: 32px;
+}
+
+.zssm2 span {
+    color: #d0325f;
+}
+
+.zssm2 img {
+    text-indent: 0
+}
+
+.rztj {
+    width: 120px;
+    background-color: #d0325f;
+    color: #fff;
+    border-radius: 25px;
+    padding: 5px
+}
+
+.rztj1 {
+    width: 120px;
+    background-color: #d0325f;
+    color: #fff;
+    border-radius: 25px;
+    padding: 2px 5px;
+    margin-top: 20px;
+}
+
+.rztj3 h5 {
+    line-height: 28px;
+    margin-left: 8px;
+    color: #666666;
+}
+
+.rztj3 kbd {
+    background-color: #d0325f;
+    padding: 2px 6px;
+}
+
+.rztj4 {
+    width: 1200px;
+    margin: auto;
+    padding: 0 50px;
+}
+
+.panel-body kbd {
+    padding: 2px 8px;
+    margin: 5px;
+    background-color: #d0325f;
+}
+
+.rztj4 h4 {
+    margin: 25px 0;
+    line-height: 32px;
+}
+
+.formpc {
+    background-color: #286090;
+    background-position: center bottom;
+    height: auto;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.formtitle {
+    line-height: 42px;
+    color: #fff;
+}
+
+.formpc .form-control1 {
+    width: 600px;
+    margin: auto;
+    border-radius: 0px;
+}
+
+.formbd {
+    margin: 15px 0;
+}
+
+.formpc .formbd1 button {
+    text-align: center;
+    background-color: #d0325f;
+    width: 600px;
+    margin: auto;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.btn1 {
+    margin: 20px auto;
+    background-color: #d0325f;
+    color: #ffffff;
+    width: 100%;
+}
+
+.formbd1 button:hover {
+    background-color: royalblue;
+    color: #fff;
+}
+
+.formbd2 {
+    width: 100%;
+    margin: 10px 0;
+}
+
+.formweb {
+    background-color: #286090;
+    background-position: center bottom;
+    height: auto;
+    padding-top: 40px;
+}
+
+.form-control2 {
+    border-radius: 0px;
+}
+
+.formbd3 {
+    width: 100%;
+    margin: 10px 0;
+}
+
+.btn2 button {
+    background-color: #d0325f;
+    color: #fff;
+    width: 100%;
+}
+
+.btn2 button:hover {
+    background-color: royalblue;
+    color: #fff;
+    border-radius: 0px;
+    padding: 5px 20px;
+}
+
+.webmap {
+    padding: 20px 0 0 0;
+}
+
+.con1 {
+    float: left;
+    padding: 20px 35px;
+    border: 1px solid #ececec;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.rztj5 {
+    width: 1200px;
+    padding-left: 200px;
+    margin-top: 50px;
+}
+
+.lgbg {
+    margin-top: 40px;
+}
+
+.navli {
+    padding: 10px 0px;
+}
+
+.xs {
+    color: #666666;
+}
+
+.active {
+    background-color: #fff;
+}
+
+.tdborder {
+    border: 1px solid #f1f1f1;
+    border-top: 0;
+}
+
+.td01 {
+    margin-bottom: 20px;
+}
+
+.panel-body h5 {
+    line-height: 32px;
+}
+
+.caption h4 {
+    line-height: 32px;
+}
+
+.headcctv {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f1f1f1;
+    margin-bottom: 20px;
+}
+
+.gkx h6 {
+    color: #666;
+    line-height: 28px;
+    text-indent: 24px;
+}
+
+.gkx1 h4 {
+    color: #666;
+    line-height: 36px;
+    text-indent: 36px;
+}
+
+.qa {
+    margin: 5px auto;
+    color: #666;
+}
+
+.qa h6 {
+    color: #666;
+    line-height: 24px;
+    text-indent: 22px;
+}
